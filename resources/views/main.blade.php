@@ -1,6 +1,6 @@
 @include('_head')
   <body>
-
+bvla bla bal
     <!-- Default Bootstrap Navbar -->
     <nav class="navbar navbar-default">
       <div class="container-fluid">
